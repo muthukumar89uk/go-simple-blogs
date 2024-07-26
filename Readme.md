@@ -1,6 +1,8 @@
 # Blog Project
 This is a simple blog project implemented in Go (Golang) using the Fiber web framework and GORM as the ORM library for interacting with the database. The project allows users to sign up, log in, post articles, add comments to articles, view articles, and manage user sessions using JWT (JSON Web Tokens) for authentication.
 
+Clone the git repo - `git clone https://github.com/muthukumar89uk/gin-RESTAPI-postgres-gorm.git` - or [download it](https://github.com/muthukumar89uk/gin-RESTAPI-postgres-gorm/zipball/master).
+
 ## Technologies used
 The project is built using the following technologies:
 - **Golang**  : The backend is written in Go (Golang), a statically typed, compiled language.
